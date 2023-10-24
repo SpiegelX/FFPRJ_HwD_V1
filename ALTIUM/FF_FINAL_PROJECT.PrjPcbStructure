@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=ADC.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=DC-DC.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=ESP32-LORA_RA_08H.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=MCU_STM32H743VIT6.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=TTL-RS485.SchDoc|SheetNumber=2
